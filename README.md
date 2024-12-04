@@ -1,4 +1,5 @@
 R code:
+
 ---
 title: "Company ABC Employee Report"
 subtitle: "Combined Data Report"
